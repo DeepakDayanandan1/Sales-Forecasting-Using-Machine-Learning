@@ -1,4 +1,4 @@
-#Abstract
+# Abstract
 
 In the dynamic retail landscape, accurate sales forecasting is essential for effective inventory management, demand planning, and strategic decision-making. This project aims to build a machine learning-based system to predict product sales using structured data encompassing product specifications and outlet characteristics.
 
