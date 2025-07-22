@@ -53,11 +53,7 @@ The training adn evaluation of models were performed in a Jupyter notebook. You 
 - [Deepak Dayanandan](https://github.com/DeepakDayanandan1)  
 - [Angel Joseph](https://github.com/angeljoseph23)  
 - [Fathima N](https://github.com/Fathima570)  
-<<<<<<< HEAD
 - [Nithya Stanly](https://github.com/NithyaStanly)   
-=======
-- [Nithya Stanly](https://github.com/NithyaStanly)  
->>>>>>> af614e79a7a146d7ceb759523b0fb17f723dea12
 
 
 
