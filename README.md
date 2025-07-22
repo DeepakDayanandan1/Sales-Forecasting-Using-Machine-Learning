@@ -50,10 +50,10 @@ The training adn evaluation of models were performed in a Jupyter notebook. You 
 
 
 ## 👨‍💻 Developed by
-- [Deepak Dayanandan](github.com/DeepakDayanandan1)  
-- [Angel Joseph]()  
-- [Fathima N]()  
-- [Nithya Stanly]()  
+- [Deepak Dayanandan](https://github.com/DeepakDayanandan1)  
+- [Angel Joseph](https://github.com/angeljoseph23)  
+- [Fathima N](https://github.com/Fathima570)  
+- [Nithya Stanly](https://github.com/NithyaStanly)   
 
 
 
