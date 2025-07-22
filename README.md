@@ -43,10 +43,11 @@ Dataset — [Download Here](https://github.com/DeepakDayanandan1/Sales-Forecasti
 
 ---
 
+
 ## 📓 Model Notebook
-The training and evaluation of models were performed in a Jupyter notebook.You can view the complete data analysis, model training, and evaluation process here:
-📎 [View Colab Notebook](#)
----
+The training adn evaluation of models were performed in a Jupyter notebook. You can view the complete data analysis, model training, and evaluation process here:
+📎 [View Colab Notebook](https://colab.research.google.com/drive/1XLvKaaJ4DRWW70YME4eL0zt4M0Y3kuvO#scrollTo=L-H1iMm3hcwB)
+
 
 ## 👨‍💻 Developed by
 - [Deepak Dayanandan](github.com/DeepakDayanandan1)  
